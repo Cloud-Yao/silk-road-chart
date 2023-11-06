@@ -32,3 +32,19 @@ entries:
       appVersion: 7.2.3
       urls:
         - https://cloud-yao.github.io/silk-road-chart/redis-cluster/redis-cluster-7.2.3.tgz
+  grafana:
+    - name: grafana
+      version: 10.2.0
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for Grafana Application
+      appVersion: 10.2.0
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/grafana/grafana-10.2.0.tgz
+  nacos:
+    - name: nacos
+      version: 2.2.3
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for Nacos Application
+      appVersion: 2.2.3
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/nacos/nacos-2.2.3.tgz
