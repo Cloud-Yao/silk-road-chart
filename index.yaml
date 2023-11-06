@@ -48,3 +48,75 @@ entries:
       appVersion: 2.2.3
       urls:
         - https://cloud-yao.github.io/silk-road-chart/nacos/nacos-2.2.3.tgz
+  cassandra:
+    - name: cassandra
+      version: 4.1.3
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for Cassandra Application
+      appVersion: 4.1.3
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/cassandra/cassandra-4.1.3.tgz
+  etcd:
+    - name: etcd
+      version: 3.5.10
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for Etcd Application
+      appVersion: 3.5.10
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/etcd/etcd-3.5.10.tgz
+  harbor:
+    - name: harbor
+      version: 2.9.0
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for Harbor Application
+      appVersion: 2.9.0
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/harbor/harbor-2.9.0.tgz
+  influxdb:
+    - name: influxdb
+      version: 2.7.3
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for InfluxDB Application
+      appVersion: 2.7.3
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/influxdb/influxdb-2.7.3.tgz
+  kafka:
+    - name: kafka
+      version: 3.6.0
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for Kafka Application
+      appVersion: 3.6.0
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/kafka/kafka-3.6.0.tgz
+  minio:
+    - name: minio
+      version: 2023.11.1
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for Minio Application
+      appVersion: 2023.11.1
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/minio/minio-2023.11.1.tgz
+  postgresql:
+    - name: postgresql
+      version: 16.0.0
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for Postgresql Application
+      appVersion: 16.0.0
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/postgresql/postgresql-16.0.0.tgz
+  postgresql-ha:
+    - name: postgresql-ha
+      version: 16.0.0
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for Postgresql HA Application
+      appVersion: 16.0.0
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/postgresql/postgresql-ha-16.0.0.tgz
+  zookeeper:
+    - name: zookeeper
+      version: 3.9.1
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for Zookeeper HA Application
+      appVersion: 3.9.1
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/zookeeper/zookeeper-3.9.1.tgz
