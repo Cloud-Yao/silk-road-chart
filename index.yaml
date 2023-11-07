@@ -48,6 +48,13 @@ entries:
       appVersion: 2.2.3
       urls:
         - https://cloud-yao.github.io/silk-road-chart/nacos/nacos-2.2.3.tgz
+    - name: nacos-operator
+      version: 1.0.0
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for Nacos Operator Application
+      appVersion: 1.0.0
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/nacos/nacos-operator-1.0.0.tgz
   cassandra:
     - name: cassandra
       version: 4.1.3
