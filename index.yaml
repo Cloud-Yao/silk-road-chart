@@ -127,3 +127,11 @@ entries:
       appVersion: 3.9.1
       urls:
         - https://cloud-yao.github.io/silk-road-chart/zookeeper/zookeeper-3.9.1.tgz
+  prometheus:
+    - name: prometheus
+      version: 0.68.0
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for prometheus HA Application
+      appVersion: 0.68.0
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/prometheus/prometheus-0.68.0.tgz
