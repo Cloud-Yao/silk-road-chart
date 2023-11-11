@@ -48,6 +48,7 @@ entries:
       appVersion: 2.2.3
       urls:
         - https://cloud-yao.github.io/silk-road-chart/nacos/nacos-2.2.3.tgz
+  nacos-operator:
     - name: nacos-operator
       version: 1.0.0
       created: "2023-11-08T12:00:00Z"
@@ -143,6 +144,7 @@ entries:
       appVersion: 3.1.0
       urls:
         - https://cloud-yao.github.io/silk-road-chart/pulsar/pulsar-3.1.0.tgz
+  pulsar-operator:
     - name: pulsar-operator
       version: 0.17.0
       created: "2023-11-08T12:00:00Z"
