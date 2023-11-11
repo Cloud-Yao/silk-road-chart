@@ -135,3 +135,18 @@ entries:
       appVersion: 0.68.0
       urls:
         - https://cloud-yao.github.io/silk-road-chart/prometheus/prometheus-0.68.0.tgz
+  pulsar:
+    - name: pulsar
+      version: 3.1.0
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for pulsar Application
+      appVersion: 3.1.0
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/pulsar/pulsar-3.1.0.tgz
+    - name: pulsar-operator
+      version: 0.17.0
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for pulsar-operator Application
+      appVersion: 0.17.0
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/pulsar/pulsar-operator-0.17.0.tgz

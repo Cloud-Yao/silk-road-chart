@@ -515,7 +515,7 @@ busybox:
   imagePullPolicy: IfNotPresent
 
 monitor:
-  create: true
+  create: false
   # Also see rbac.create
   # If you set rbac.create to false, you need to provide a value here.
   # If you set rbac.create to true, you should leave this empty.
