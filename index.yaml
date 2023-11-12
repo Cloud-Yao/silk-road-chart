@@ -31,7 +31,7 @@ entries:
       description: A Helm chart for Redis Cluster Application
       appVersion: 7.2.3
       urls:
-        - https://cloud-yao.github.io/silk-road-chart/redis-cluster/redis-cluster-7.2.3.tgz
+        - https://cloud-yao.github.io/silk-road-chart/redis/redis-cluster-7.2.3.tgz
   grafana:
     - name: grafana
       version: 10.2.0
