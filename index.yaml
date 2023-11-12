@@ -152,3 +152,11 @@ entries:
       appVersion: 0.17.0
       urls:
         - https://cloud-yao.github.io/silk-road-chart/pulsar/pulsar-operator-0.17.0.tgz
+  juicefs-csi-driver:
+    - name: juicefs-csi-driver
+      version: 0.18.1
+      created: "2023-11-08T12:00:00Z"
+      description: A Helm chart for juicefs-csi-driver Application
+      appVersion: 0.21.1
+      urls:
+        - https://cloud-yao.github.io/silk-road-chart/juicefs/juicefs-csi-driver-0.18.1.tgz
